@@ -1,58 +1,58 @@
-# Урок 1. Что такое компьютер и из чего он состоит
+# Lesson 1. What is a Computer and What Does It Consist Of
 
-## Что такое компьютер?
+## What is a computer?
 
-**Компьютер** — это электронное устройство, которое может принимать, обрабатывать и сохранять информацию (данные). Компьютеры помогают выполнять различные задачи: работать с текстами, смотреть фильмы, слушать музыку, выходить в интернет, общаться с другими людьми, программировать и многое другое.
+A **computer** is an electronic device that can receive, process, and store information (data). Computers help perform various tasks: working with texts, watching movies, listening to music, accessing the internet, communicating with others, programming, and much more.
 
-### Для чего нужен компьютер?
-- Поиск информации и обучение
-- Общение с другими людьми (через мессенджеры, социальные сети)
-- Развлечения (фильмы, музыка, игры)
-- Работа с документами и фотографиями
-- Программирование, создание сайтов и приложений
-
----
-
-## Основные части компьютера
-
-### 1. **Системный блок** (для настольного компьютера)
-- Главное устройство, внутри которого находятся все основные компоненты.
-
-### 2. **Монитор**
-- Экран, на который выводится изображение.
-
-### 3. **Клавиатура**
-- Устройство для ввода текста и команд.
-
-### 4. **Мышь**
-- Устройство управления курсором на экране.
-
-### 5. **Ноутбук**
-- Совмещает системный блок, монитор, клавиатуру и мышь в одном корпусе.
-- Портативный (можно брать с собой).
-
-### 6. **Блок питания или зарядное устройство**
-- Подаёт электричество к устройству.
+### What is a computer used for?
+- Searching for information and learning  
+- Communicating with other people (through messengers, social networks)  
+- Entertainment (movies, music, games)  
+- Working with documents and photos  
+- Programming, creating websites and applications  
 
 ---
 
-## Внутренние компоненты (для понимания)
+## Main parts of a computer
 
-- **Процессор** (CPU) — "мозг" компьютера, выполняет вычисления.
-- **Оперативная память** (RAM) — временно хранит данные и ускоряет работу программ.
-- **Жёсткий диск / SSD** — постоянное хранение данных (ваши файлы и программы).
-- **Видеокарта** — помогает показывать сложную графику и видео.
+### 1. **System Unit** (for desktop computers)  
+- The main device that contains all the essential components inside.  
+
+### 2. **Monitor**  
+- The screen that displays images.  
+
+### 3. **Keyboard**  
+- The device used for inputting text and commands.  
+
+### 4. **Mouse**  
+- The device used to control the cursor on the screen.  
+
+### 5. **Laptop**  
+- Combines the system unit, monitor, keyboard, and mouse in one case.  
+- Portable (can be taken with you).  
+
+### 6. **Power Supply or Charger**  
+- Provides electricity to the device.  
 
 ---
 
-## Практическое задание
+## Internal components (for understanding)
 
-1. Посмотрите на свой компьютер или ноутбук. Найдите монитор, клавиатуру, мышь, зарядное устройство.
-2. Если у вас ноутбук — найдите, где он заряжается и где расположена клавиатура.
-3. Попробуйте включить и правильно выключить устройство:
-   - Включение: нажмите кнопку питания.
-   - Отключение: используйте меню «Пуск» → «Завершение работы».
+- **Processor** (CPU) — the "brain" of the computer; performs calculations.  
+- **RAM** (Random Access Memory) — temporarily stores data and speeds up program operation.  
+- **Hard Drive / SSD** — permanent storage of data (your files and programs).  
+- **Video Card** — helps display complex graphics and video.  
 
 ---
 
-Хорошего освоения основ! Переходите к следующему уроку после выполнения задания.
+## Practical assignment
+
+1. Look at your computer or laptop. Find the monitor, keyboard, mouse, and charger.  
+2. If you have a laptop, find where it charges and where the keyboard is located.  
+3. Try to turn the device on and off properly:  
+   - Turning on: press the power button.  
+   - Turning off: use the Start menu → Shut down.  
+
+---
+
+Good luck mastering the basics! Move on to the next lesson after completing the assignment.
