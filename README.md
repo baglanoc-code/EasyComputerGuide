@@ -1,40 +1,39 @@
-Добро пожаловать!
+Welcome!
 
-Этот проект создан для всех, кто хочет научиться работать с компьютером или ноутбуком — как для тех, кто только начинает, так и для тех, кто хочет знать больше. Здесь ты найдёшь простые инструкции, полезные советы и практические задания, чтобы уверенно пользоваться техникой в повседневной жизни.
+This project is created for everyone who wants to learn how to use a computer or laptop — both for those who are just starting and for those who want to know more. Here you will find simple instructions, useful tips, and practical exercises to confidently use technology in everyday life.
 
-Для кого этот проект?
-- Для новичков, которые только знакомятся с компьютером или ноутбуком.
-- Для пользователей, которые хотят повысить свои знания и узнать полезные фишки.
-- Для тех, кто любит пошаговые инструкции и реальные примеры из жизни.
+Who is this project for?
+Beginners who are just getting familiar with computers or laptops.
+Users who want to improve their skills and learn useful tricks.
+Those who enjoy step-by-step instructions and real-life examples.
 
-Чему ты научишься?
--  Что такое компьютер и из чего он состоит
--  Главные части компьютера или ноутбука и их функции
--  Как правильно включать и выключать устройство
--  Знакомство с операционной системой
--  Как выглядит рабочий стол и основные элементы
--  Запуск программ и работа с окнами
--  Работа с файлами и папками
--  Как создавать, перемещать, копировать и удалять файлы
--  Как навести порядок в своих папках
--  Установка и удаление программ
--  Где искать и скачивать безопасные программы
--  Как правильно устанавливать и удалять приложения
--  Настройки, безопасность и полезные привычки
--  Подключение к интернету
--  Основы безопасности и защита от вирусов
--  Как сохранить важные файлы
--  Практические советы и упражнения
--  Быстрые клавиши и упрощение работы
--  Текстовые документы, таблицы и презентации
--  Основа работы в интернете и с электронной почтой
--  Для тех, кто хочет большего
--  Основы командной строки
--  Подключение принтера и другой техники
--  Решение типовых проблем
+What will you learn?
+  What a computer is and what it consists of
+  The main parts of a computer or laptop and their functions
+  How to properly turn your device on and off
+  Getting to know the operating system
+  What the desktop and main elements look like
+  How to launch programs and work with windows
+  Working with files and folders
+  How to create, move, copy, and delete files
+  How to organize your folders
+  Installing and removing programs
+  Where to find and download safe programs
+  How to correctly install and uninstall applications
+  Settings, security, and useful habits
+  Connecting to the internet
+  Basics of security and virus protection
+  How to save important files
+  Practical tips and exercises
+  Keyboard shortcuts and ways to work faster
+  Working with documents, spreadsheets, and presentations
+  Basics of internet browsing and email
+  For those who want more
+  Basics of the command line
+  Connecting printers and other devices
+  Troubleshooting common problems
 
-Как пользоваться этим проектом
-Все уроки и инструкции разбиты по папкам и файлам — выбирай и изучай в удобном для себя темпе.
 
-Начинай с самого простого и переходи к следующему этапу.
-Выполняй практические задания и не бойся спрашивать, если что-то непонятно. 
+How to use this project
+All lessons and instructions are organized into folders and files — choose and study at your own pace.
+Start with the simplest topics and progress to the next steps. Complete the practical tasks and don’t hesitate to ask if something is unclear.
