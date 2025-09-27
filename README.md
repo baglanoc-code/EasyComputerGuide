@@ -37,3 +37,4 @@ What will you learn?
 How to use this project
 All lessons and instructions are organized into folders and files — choose and study at your own pace.
 Start with the simplest topics and progress to the next steps. Complete the practical tasks and don’t hesitate to ask if something is unclear.
+Link : [LESSONS](https://github.com/baglanoc-code/EasyComputerGuide/tree/lessons)
