@@ -4,7 +4,7 @@ Welcome to the lessons section! Here you will find step-by-step guides that will
 
 ## List of Lessons
 
-1. [Lesson 1: What is a Computer and What Does It Consist Of]
+1. [Lesson 1: What is a Computer and What Does It Consist Of](https://github.com/baglanoc-code/EasyComputerGuide/blob/lessons/01_what_is_computer.md)
 2. [Lesson 2: Working with Files and Folders]
 3. [Lesson 3: Getting Started with the Operating System]
 4. [Lesson 4: Installing and Removing Programs]
